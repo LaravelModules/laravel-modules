@@ -3,6 +3,7 @@
 ## 1. Install Laravel 
   #### Via Laravel Installer
       `composer global require "laravel/installer"`
+      
       `laravel new blog`
   #### Via Composer Create-Project
       `composer create-project --prefer-dist laravel/laravel blog`
@@ -10,13 +11,21 @@
    Enter into project folder
 ## 3. Install Laravel Modules
    #### Via Laravel Modules Installer
-      run
+   
+   run
+   
      `composer global require "laravelmodules/installer"`
-     then
+   
+   then
+   
      `laravelmodules new`
    #### Via Composer Create-Project
-      run
+   
+   run
+   
      `composer create-project laravelmodules/core`
-     then
+   
+   then
+   
      `module:core:install`
 
