@@ -2,9 +2,13 @@
 
 ## 1. Install Laravel 
   #### Via Laravel Installer
-  
-      composer global require "laravel/installer"
-      laravel new blog
+     run
+   
+     `composer global require "laravel/installer"`
+   
+   then
+   
+     `laravel new blog`
             
   #### Via Composer Create-Project
   
