@@ -8,3 +8,7 @@ Example
 php artisan module:new:install Users laravelmodules/users
 ```
 
+#### Manual Installation
+  - Download <gitUser>/<repositoryName> repository zip file 
+  - Extract 
+  - Move Module Folder into "Modules" folder'
