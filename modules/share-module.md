@@ -1,5 +1,8 @@
 # Share your Own Module
-
+#### Verify available Modules in LaravelModules list
+  
+  You can contribute to an existant Module to make improvements
+  
 ## Make Module
 
   ```
