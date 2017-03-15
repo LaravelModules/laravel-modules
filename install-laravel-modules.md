@@ -2,7 +2,7 @@
 
 ## 1. Install Laravel 
   #### Via Laravel Installer
-     run
+   run
    
      `composer global require "laravel/installer"`
    
